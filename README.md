@@ -5,7 +5,7 @@
 **Not Just *What* Is Said, but *Who*, *How*, and *Where***
 
 [![Demo Page](https://img.shields.io/badge/Project%20Page-blue?logo=internet-explorer&logoColor=white)](https://amphionteam.github.io/VoxSafeBench_demopage/)
-[![arXiv Paper](https://img.shields.io/badge/arXiv%20Paper-b31b1b?logo=arxiv&logoColor=white)](#)
+[![arXiv Paper](https://img.shields.io/badge/arXiv%20Paper-b31b1b?logo=arxiv&logoColor=white)](https://arxiv.org/abs/2604.14548)
 [![Dataset](https://img.shields.io/badge/Dataset-orange?logo=huggingface&logoColor=white)](https://huggingface.co/datasets/YuxiangW/VoxSafeBench)
 <br>
 
